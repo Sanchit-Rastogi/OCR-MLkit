@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "573642740004",
+    "firebase_url": "https://dl-ocr-a10ea.firebaseio.com",
+    "project_id": "dl-ocr-a10ea",
+    "storage_bucket": "dl-ocr-a10ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573642740004:android:cf6092733ccaf4bd9823b1",
+        "android_client_info": {
+          "package_name": "com.sanchitrastogi.dlocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573642740004-mulk1rf8t6vbkb1d25j4f5ao5em5o0rr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAORA2KTWdcvAjdZk6w2G1qyV62u-dGTJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573642740004-mulk1rf8t6vbkb1d25j4f5ao5em5o0rr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
